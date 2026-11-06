@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=1.24
+statsmodels>=0.14
+scipy>=1.10
+matplotlib>=3.7
+seaborn>=0.12
+requests>=2.31
+yfinance>=0.2
+torch>=2.0
+# Timestral
+# pip install git+https://github.com/mistralai/timestral.git

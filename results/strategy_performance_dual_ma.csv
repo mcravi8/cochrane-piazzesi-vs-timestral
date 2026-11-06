@@ -1,0 +1,4 @@
+forecast,sharpe,ann_ret,max_dd,sharpe_2bp,time_in_market
+cp,1.31,7.48,-0.362,1.31,0.48
+timestral,1.17,7.31,-0.428,1.17,0.56
+hybrid,1.24,7.17,-0.427,1.24,0.48
